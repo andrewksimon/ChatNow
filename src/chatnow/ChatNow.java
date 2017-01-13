@@ -15,7 +15,8 @@ public class ChatNow {
     public static void main(String[] args) {
         
         //Set focus to the Login Form.
-        new ChatNowClientLoginGUI().setVisible(true);
+        //new ChatNowClientLoginGUI().setVisible(true);
+        new ChatNowClientGUI().setVisible(true);
         
     }
     
